@@ -1,0 +1,1 @@
+# frontier-gowild-scraper
